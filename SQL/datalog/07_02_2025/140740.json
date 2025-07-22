@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "person",
+    "error": "Cannot execute \"person\"",
+    "resultcount": 0,
+    "result": []
+}

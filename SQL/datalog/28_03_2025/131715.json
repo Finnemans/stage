@@ -1,0 +1,12 @@
+{
+    "database": "rubyquest.db",
+    "query": "select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo' and npc.city = city.id",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "name": "Unterdages",
+            "profession": "Tailor"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from animals where owner == (select id from person where name = 'Captain America')",
+    "error": "no such table: animals",
+    "resultcount": 0,
+    "result": []
+}

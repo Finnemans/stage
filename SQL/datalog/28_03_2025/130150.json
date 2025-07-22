@@ -1,0 +1,12 @@
+{
+    "database": "rubyquest.db",
+    "query": "select weapon.name, person.attack+weapon.attack from weapon join person on weapon.id = person.weapon where person.name = 'Bowser'",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "name": "Shell Chain",
+            "person.attack+weapon.attack": 1400
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "database": "rubyquest.db",
+    "query": "select profession from npc order by profession asc",
+    "error": null,
+    "resultcount": 194,
+    "result": [
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        },
+        {
+            "profession": "Tailor"
+        }
+    ]
+}

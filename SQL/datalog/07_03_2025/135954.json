@@ -1,0 +1,26 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon order by attack asc limit 3",
+    "error": null,
+    "resultcount": 3,
+    "result": [
+        {
+            "id": 1,
+            "name": "Dirk",
+            "price": 10,
+            "attack": 100
+        },
+        {
+            "id": 44,
+            "name": "Sling",
+            "price": 15,
+            "attack": 115
+        },
+        {
+            "id": 23,
+            "name": "Quarterstaff",
+            "price": 12,
+            "attack": 125
+        }
+    ]
+}

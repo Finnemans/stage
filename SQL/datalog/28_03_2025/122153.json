@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select person.name, weapon.name, weapon.attack from person join weapon on person.id = weapons.id where person.name = 'bowser' limit 1",
+    "error": "no such column: weapons.id",
+    "resultcount": 0,
+    "result": []
+}

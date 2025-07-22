@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * name armor",
+    "error": "near \"name\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

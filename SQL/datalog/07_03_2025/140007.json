@@ -1,0 +1,32 @@
+{
+    "database": "rubyquest.db",
+    "query": "select distinct profession from npc order by profession asc",
+    "error": null,
+    "resultcount": 8,
+    "result": [
+        {
+            "profession": "Apothecary"
+        },
+        {
+            "profession": "Blacksmith"
+        },
+        {
+            "profession": "Boss"
+        },
+        {
+            "profession": "Craftsman"
+        },
+        {
+            "profession": "Elder"
+        },
+        {
+            "profession": "Innkeeper"
+        },
+        {
+            "profession": "Pet Trainer"
+        },
+        {
+            "profession": "Tailor"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo' and npc.city = city.id; #11:00:36@rubyquest.db

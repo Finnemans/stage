@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT TOP 10 * FROM people;",
+    "error": "near \"10\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

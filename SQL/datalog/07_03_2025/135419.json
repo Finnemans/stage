@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon order by damage asc limit 3",
+    "error": "no such column: damage",
+    "resultcount": 0,
+    "result": []
+}

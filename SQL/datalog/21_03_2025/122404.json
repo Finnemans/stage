@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count() from animal",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "count()": 105
+        }
+    ]
+}

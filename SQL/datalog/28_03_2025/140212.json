@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count(*) from city join region on city.region = region.id where region.name = 'Breach'",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "count(*)": 7
+        }
+    ]
+}

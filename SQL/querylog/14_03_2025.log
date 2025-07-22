@@ -1,0 +1,60 @@
+select * from creatures where type name == Orc; #13:03:12@rubyquest.db
+select * from creatures where type == Orc; #13:03:22@rubyquest.db
+select * from creature where type == Orc; #13:03:34@rubyquest.db
+select * from creature where name == Orc; #13:03:48@rubyquest.db
+select * from creature where name = orc; #13:04:07@rubyquest.db
+select * from creature where name = 'orc'; #13:05:11@rubyquest.db
+select * from creature where name = 'Orc'; #13:05:18@rubyquest.db
+select * from creature where name = 'Orc' or name = 'Killer Bee; #13:05:48@rubyquest.db
+select * from creature where name = 'Orc' or where name = 'Killer Bee; #13:06:26@rubyquest.db
+select * from creature where name = 'Orc' Or name = 'Killer Bee; #13:06:35@rubyquest.db
+select * from creature where name = 'Orc' or name = 'Killer Bee; #13:07:04@rubyquest.db
+select * from creature where name = 'Orc' or 'Killer Bee; #13:07:21@rubyquest.db
+select * from creature where name = 'Orc' or 'Killer Bee'; #13:08:04@rubyquest.db
+select * from creature where name = 'Orc' or name = 'Killer Bee'; #13:08:18@rubyquest.db
+select * animal where speed = 6 and defence = 5; #13:09:41@rubyquest.db
+select * from animal where speed = 6 and defence = 5; #13:09:59@rubyquest.db
+select * from animal where speed = 6 and defense = 5; #13:10:14@rubyquest.db
+select * from creature where type = 'Wolf' or type = 'Bear' or type = 'Eagle'; #13:11:57@rubyquest.db
+select * from animal where type = 'Wolf' or type = 'Bear' or type = 'Eagle'; #13:12:13@rubyquest.db
+select * from animal where type = 'Tiger' order by speed asc limit 3; #13:13:38@rubyquest.db
+select * from animal where type = 'Tiger' order by speed asc limit 10; #13:13:46@rubyquest.db
+select * from animal where type = 'Tiger' order by speed desc limit 10; #13:13:55@rubyquest.db
+select MAX(speed) from animal where type = 'Tiger'; #13:16:09@rubyquest.db
+select * from person where attack and defense and agility = 10; #13:17:43@rubyquest.db
+select * from animal where type = 'Wolf' or 'Bear' or 'Eagle'; #13:18:11@rubyquest.db
+select * from animal where type = 'Wolf' or type = 'Bear' or type = 'Eagle'; #13:18:42@rubyquest.db
+select * from hero where intelligence between 30 and 90; #13:21:18@rubyquest.db
+select * from creature where name = 'Orc' or name = 'Killer Bee'; #13:21:48@rubyquest.db
+select * from animal where speed = 6 and defense = 5; #13:21:57@rubyquest.db
+select * from animal where type = 'Wolf' or type = 'Bear' or type = 'Eagle'; #13:22:05@rubyquest.db
+select MAX(speed) from animal where type = 'Tiger'; #13:22:18@rubyquest.db
+select * from person where attack and defense and agility = 10; #13:22:25@rubyquest.db
+select * from hero where intelligence between 30 and 90; #13:22:34@rubyquest.db
+select count(type) from animal where type = 'Wolf' or type = 'Bear' or type = 'Eagle'; #13:28:28@rubyquest.db
+select * from animal where type = 'Tiger' order by speed desc limit 1; #13:29:55@rubyquest.db
+select * from hero where intelligence not 30 or 90; #13:30:45@rubyquest.db
+select * from hero where intelligence not in (30, 90); #13:32:14@rubyquest.db
+select * from weapon where price between 100 and 1000; #13:37:00@rubyquest.db
+select * from weapon where attack between 300 and 600; #13:39:05@rubyquest.db
+select * from animal where defense between 7 and 9; #13:41:16@rubyquest.db
+select * from person like a%; #13:42:44@rubyquest.db
+select * from person like A%; #13:42:52@rubyquest.db
+select * from person where name like A%; #13:43:08@rubyquest.db
+select * from person where name like 'a%'; #13:43:43@rubyquest.db
+select * from person where name like 'b%'; #13:44:07@rubyquest.db
+select * from animal where name like 'a'; #13:45:48@rubyquest.db
+select * from animal where type like 'a'; #13:45:58@rubyquest.db
+select * from animal where type like 'a_'; #13:46:07@rubyquest.db
+select * from animal where type like '%a%'; #13:47:00@rubyquest.db
+select * from animal where type like '%ea%'; #13:48:17@rubyquest.db
+select * from weapon where name like '%d'; #13:50:11@rubyquest.db
+select * from weapon where price between 100 and 1000; #13:50:33@rubyquest.db
+select * from weapon where attack between 300 and 600; #13:50:41@rubyquest.db
+select * from animal where defense between 7 and 9; #13:50:49@rubyquest.db
+select * from person where name like 'b%'; #13:50:57@rubyquest.db
+select * from animal where type like '%a%'; #13:51:05@rubyquest.db
+select * from animal where type like '%ea%'; #13:51:12@rubyquest.db
+select * from weapon where name like '%d'; #13:51:26@rubyquest.db
+select count() from animal where defense between 7 and 9; #13:53:18@rubyquest.db
+select * from animal where type like '%a%e%'; #13:54:40@rubyquest.db

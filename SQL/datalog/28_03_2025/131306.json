@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT city.name, npc.profession FROM city JOIN person ON person.city_id = city.id JOIN npc ON npc.person_id = person.id WHERE person.name = 'Mukovo'",
+    "error": "no such column: person.city_id",
+    "resultcount": 0,
+    "result": []
+}

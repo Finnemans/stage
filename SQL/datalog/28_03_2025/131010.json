@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select city.name, npc.profession from city join person join npc where npc.person = person.id where person.name = 'Mukovo'",
+    "error": "near \"where\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creatures where type name == Orc",
+    "error": "near \"name\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

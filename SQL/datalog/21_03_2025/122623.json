@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count() from city",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "count()": 27
+        }
+    ]
+}

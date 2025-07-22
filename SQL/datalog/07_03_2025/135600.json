@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select distinct names from animal",
+    "error": "no such column: names",
+    "resultcount": 0,
+    "result": []
+}

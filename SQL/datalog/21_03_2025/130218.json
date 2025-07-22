@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select round(avg(experience), 0) from quest",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "round(avg(experience), 0)": 1939.0
+        }
+    ]
+}

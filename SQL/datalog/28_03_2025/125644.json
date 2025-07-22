@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon join person where person.id = person.weapon",
+    "error": null,
+    "resultcount": 0,
+    "result": []
+}

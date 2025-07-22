@@ -1,0 +1,37 @@
+select * from city; #09:13:09@rubyquest.db
+select * from quest; #09:13:49@rubyquest.db
+select * from creature; #09:14:49@rubyquest.db
+select name armor; #09:15:23@rubyquest.db
+select * name armor; #09:15:58@rubyquest.db
+select armor name; #09:16:12@rubyquest.db
+select name armor; #09:16:23@rubyquest.db
+select name from armor; #09:16:57@rubyquest.db
+select name, attack from weapon; #09:17:44@rubyquest.db
+select name, max_health from name; #09:20:06@rubyquest.db
+select name, max_health from creature; #09:20:25@rubyquest.db
+select * from person; #09:20:59@rubyquest.db
+select * from city; #09:21:12@rubyquest.db
+select * from quest; #09:21:22@rubyquest.db
+select * from creature; #09:21:29@rubyquest.db
+select name from armor; #09:21:40@rubyquest.db
+select name, attack from weapon; #09:21:49@rubyquest.db
+select name, max_health from creature; #09:21:57@rubyquest.db
+select * from person where id 7; #09:42:16@rubyquest.db
+select * from person where id==7; #09:42:25@rubyquest.db
+select * from person where id = 7; #09:42:37@rubyquest.db
+select * from quest where gold = 0; #09:43:37@rubyquest.db
+select * from city where region = 1; #09:44:35@rubyquest.db
+select * from creature where name = sheep; #09:45:07@rubyquest.db
+select * from animal where name = sheep; #09:45:22@rubyquest.db
+select * from animal where type = sheep; #09:45:41@rubyquest.db
+select * from animal where type = Sheep; #09:45:58@rubyquest.db
+select * from animal where type = 'Sheep'; #09:48:22@rubyquest.db
+select * from animal where owner > 0; #09:49:22@rubyquest.db
+select * from animal where type != 'Sheep'; #09:52:15@rubyquest.db
+select type from animal where type != 'Sheep'; #09:52:55@rubyquest.db
+select * from person where id = 7; #09:53:33@rubyquest.db
+select * from quest where gold = 0; #09:54:08@rubyquest.db
+select * from city where region = 1; #09:54:17@rubyquest.db
+select * from animal where type = 'Sheep'; #09:54:25@rubyquest.db
+select * from animal where owner > 0; #09:54:33@rubyquest.db
+select type from animal where type != 'Sheep'; #09:54:41@rubyquest.db

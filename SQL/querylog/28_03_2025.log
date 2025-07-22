@@ -1,0 +1,32 @@
+SELECT name FROM city WHERE region_id IN (SELECT id FROM region WHERE id IN (11, 15)); #11:33:23@rubyquest.db
+SELECT name FROM city WHERE IN (SELECT id FROM region WHERE id IN (11, 15)); #11:38:36@rubyquest.db
+SELECT name FROM city IN (SELECT id FROM region WHERE id IN (11, 15)); #11:38:48@rubyquest.db
+SELECT name FROM city WHERE region IN (SELECT name FROM region WHERE name IN ('North Groval', 'South Groval')); #11:43:19@rubyquest.db
+SELECT * FROM city WHERE region IN (SELECT id FROM region WHERE name IN ('North Groval', 'South Groval')); #11:48:23@rubyquest.db
+select * from animals where owner == (select id from person where name = 'Captain America'); #11:53:34@rubyquest.db
+select * from animal where owner == (select id from person where name = 'Captain America'); #11:53:40@rubyquest.db
+select * from city where region in (select id from region where name in ('North Groval', 'South Groval')); #11:54:24@rubyquest.db
+select * from city where region in (select id from region where name in ('North Groval', 'South Groval')); #11:55:54@rubyquest.db
+select * from animal where owner == (select id from person where name = 'Captain America'); #11:56:04@rubyquest.db
+select city_id, city_name from cities join region on cities.region = region.id where region.name = 'Breach'; #12:07:10@rubyquest.db
+select city_id, city_name from cities join region on cities.region = region.id where region.name = 'Breach'; #12:07:13@rubyquest.db
+select * from city join regions on city.region = region.id where region.name = 'Breach'; #12:07:42@rubyquest.db
+select * from city join region on city.region = region.id where region.name = 'Breach'; #12:07:48@rubyquest.db
+select count(*) from city join region on city.region = region.id where region.name = 'Breach'; #12:09:54@rubyquest.db
+select creatures.name, creatures.shell_type, weapons.power from creatures join weapons on creatures.id = weapons.creature_id where creatures.shell_type = 'Shell Chain' limit 1; #12:20:36@rubyquest.db
+select person.name, weapon.name, weapon.power from person join weapon on person.id = weapons.id where person.name = 'bowser' limit 1; #12:21:40@rubyquest.db
+select person.name, weapon.name, weapon.attack from person join weapon on person.id = weapons.id where person.name = 'bowser' limit 1; #12:21:53@rubyquest.db
+select weapon.name, weapon.attack from weapon join person where id = person.weapon; #12:55:44@rubyquest.db
+select weapon.name, weapon.attack from weapon join person where person.id = person.weapon; #12:55:58@rubyquest.db
+select * from weapon join person where person.id = person.weapon; #12:56:44@rubyquest.db
+select * from weapon join person where weapon.id = person.weapon; #12:59:18@rubyquest.db
+select weapon.name, person.attack+weapon.attack from weapon join person on weapon.id = person.weapon where person.name = 'Bowser'; #13:01:50@rubyquest.db
+select weapon.name, person.attack + weapon.attack from weapon join person on weapon.id = person.weapon where person.name = 'Bowser'; #13:02:02@rubyquest.db
+select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo'; #13:09:40@rubyquest.db
+select city.name, npc.profession from city join person join npc where npc.person = person.id where person.name = 'Mukovo'; #13:10:10@rubyquest.db
+select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo'; #13:10:18@rubyquest.db
+SELECT city.name, npc.profession FROM city JOIN person ON person.city_id = city.id JOIN npc ON npc.person_id = person.id WHERE person.name = 'Mukovo'; #13:13:06@rubyquest.db
+select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo'; #13:13:30@rubyquest.db
+select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo' and npc.city = city.id; #13:17:15@rubyquest.db
+select * from animal; #14:01:52@rubyquest.db
+select count(*) from city join region on city.region = region.id where region.name = 'Breach'; #14:02:12@rubyquest.db

@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select MAX(speed) from animal where type = 'Tiger'",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "MAX(speed)": 10
+        }
+    ]
+}

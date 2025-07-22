@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select weapon.name, weapon.attack from weapon join person where id = person.weapon",
+    "error": "ambiguous column name: id",
+    "resultcount": 0,
+    "result": []
+}

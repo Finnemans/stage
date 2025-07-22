@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select sum(gold) from quest where holder == 0",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "sum(gold)": 61431
+        }
+    ]
+}

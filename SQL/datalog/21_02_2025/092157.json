@@ -1,0 +1,1044 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name, max_health from creature",
+    "error": null,
+    "resultcount": 259,
+    "result": [
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Killer Bee",
+            "max_health": 10
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Bat",
+            "max_health": 12
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Imp",
+            "max_health": 20
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Tarantula",
+            "max_health": 15
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Goblin",
+            "max_health": 25
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Orc",
+            "max_health": 30
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Kobold",
+            "max_health": 110
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Gargoyle",
+            "max_health": 90
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Ghost",
+            "max_health": 150
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Magog",
+            "max_health": 60
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Wraith",
+            "max_health": 75
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Troll",
+            "max_health": 150
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Golem",
+            "max_health": 135
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Demon",
+            "max_health": 100
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Troglodyte",
+            "max_health": 180
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Valkyrie",
+            "max_health": 220
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Centaur",
+            "max_health": 150
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Gorgon",
+            "max_health": 250
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Cyclops",
+            "max_health": 230
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Hydra",
+            "max_health": 250
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Pterodactyl",
+            "max_health": 200
+        },
+        {
+            "name": "Titan",
+            "max_health": 800
+        },
+        {
+            "name": "Titan",
+            "max_health": 800
+        },
+        {
+            "name": "Titan",
+            "max_health": 800
+        },
+        {
+            "name": "Titan",
+            "max_health": 800
+        },
+        {
+            "name": "Titan",
+            "max_health": 800
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Minotaur",
+            "max_health": 590
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Behemoth",
+            "max_health": 890
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Wyvern",
+            "max_health": 725
+        },
+        {
+            "name": "Red Dragon",
+            "max_health": 1000
+        },
+        {
+            "name": "Green Dragon",
+            "max_health": 1000
+        },
+        {
+            "name": "Brown Dragon",
+            "max_health": 2000
+        },
+        {
+            "name": "Black Dragon",
+            "max_health": 3000
+        },
+        {
+            "name": "White Dragon",
+            "max_health": 4000
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from animal where type like 'a'",
+    "error": null,
+    "resultcount": 0,
+    "result": []
+}

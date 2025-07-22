@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select max(price) from weapon",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "max(price)": 2850
+        }
+    ]
+}

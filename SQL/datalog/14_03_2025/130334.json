@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creature where type == Orc",
+    "error": "no such column: type",
+    "resultcount": 0,
+    "result": []
+}

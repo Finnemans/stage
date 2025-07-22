@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creature where name = 'Orc' Or name = 'Killer Bee",
+    "error": "unrecognized token: \"'Killer Bee\"",
+    "resultcount": 0,
+    "result": []
+}

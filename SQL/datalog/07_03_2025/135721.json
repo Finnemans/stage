@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name from npc",
+    "error": "no such column: name",
+    "resultcount": 0,
+    "result": []
+}

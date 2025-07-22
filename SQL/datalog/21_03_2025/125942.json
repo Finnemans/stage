@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select min(attack) from weapon",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "min(attack)": 100
+        }
+    ]
+}

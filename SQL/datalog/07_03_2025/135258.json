@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon order by gold asc",
+    "error": "no such column: gold",
+    "resultcount": 0,
+    "result": []
+}

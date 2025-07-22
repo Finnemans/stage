@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from hero where intelligence not 30 or 90",
+    "error": "near \"30\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

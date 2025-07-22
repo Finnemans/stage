@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select city_id, city_name from cities join region on cities.region = region.id where region.name = 'Breach'",
+    "error": "no such table: cities",
+    "resultcount": 0,
+    "result": []
+}

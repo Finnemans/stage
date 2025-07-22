@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select speed from animal order by max(speed)",
+    "error": "misuse of aggregate: max()",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from people limit 10",
+    "error": "no such table: people",
+    "resultcount": 0,
+    "result": []
+}

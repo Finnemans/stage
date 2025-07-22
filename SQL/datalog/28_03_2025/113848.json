@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT name FROM city IN (SELECT id FROM region WHERE id IN (11, 15))",
+    "error": "near \"IN\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

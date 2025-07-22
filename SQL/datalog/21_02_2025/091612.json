@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select armor name",
+    "error": "no such column: armor",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count(), avg(price), avg(attack) from weapons where name like '%sword%'",
+    "error": "no such table: weapons",
+    "resultcount": 0,
+    "result": []
+}

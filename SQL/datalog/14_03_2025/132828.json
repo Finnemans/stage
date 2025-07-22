@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count(type) from animal where type = 'Wolf' or type = 'Bear' or type = 'Eagle'",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "count(type)": 47
+        }
+    ]
+}

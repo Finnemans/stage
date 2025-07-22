@@ -1,0 +1,36 @@
+select count(animal); #12:23:26@rubyquest.db
+select count() from animal; #12:24:04@rubyquest.db
+select count(person) from npc; #12:25:51@rubyquest.db
+select count() from city; #12:26:23@rubyquest.db
+select count(sheep) from animal'; #12:26:44@rubyquest.db
+select count() from animal where type = sheep; #12:27:41@rubyquest.db
+select count() from animal where type = 'Sheep'; #12:28:17@rubyquest.db
+select count() from animal where type = 'Sea Snake'; #12:29:11@rubyquest.db
+select count(person) from npc; #12:29:51@rubyquest.db
+select count() from animal; #12:30:01@rubyquest.db
+select count() from city; #12:30:09@rubyquest.db
+select count() from animal where type = 'Sheep'; #12:30:18@rubyquest.db
+select count() from animal where type = 'Sea Snake'; #12:30:25@rubyquest.db
+select min(speed) from animals; #12:55:44@rubyquest.db
+select min(speed) from animal; #12:55:50@rubyquest.db
+select speed from animal order by speed desc; #12:56:55@rubyquest.db
+select speed from animal order by max(speed); #12:58:59@rubyquest.db
+select max(speed) from animal; #12:59:19@rubyquest.db
+select min(attack) from weapon; #12:59:42@rubyquest.db
+select max(price) from weapon; #13:00:11@rubyquest.db
+select avg(experience) from quest; #13:00:39@rubyquest.db
+select round(avg(experience)) from quest; #13:02:06@rubyquest.db
+select round(avg(experience), 0) from quest; #13:02:18@rubyquest.db
+select gold from quest where holder == 0; #13:04:17@rubyquest.db
+select sum(gold) from quest where holder == 0; #13:05:09@rubyquest.db
+select count(), avg(price), avg(attack) from weapons where name like '%sword%; #13:08:08@rubyquest.db
+select count(), avg(price), avg(attack) from weapons where name like '%sword%'; #13:08:17@rubyquest.db
+select count(), avg(price), avg(attack) from weapon where name like '%sword%'; #13:08:24@rubyquest.db
+select count(), avg(price), avg(attack) from weapon where name like '%sword%'; #13:08:36@rubyquest.db
+select min(speed) from animal; #13:09:07@rubyquest.db
+select max(speed) from animal; #13:09:15@rubyquest.db
+select min(attack) from weapon; #13:09:21@rubyquest.db
+select max(price) from weapon; #13:09:29@rubyquest.db
+select round(avg(experience)) from quest; #13:09:35@rubyquest.db
+select sum(gold) from quest where holder == 0; #13:09:42@rubyquest.db
+select count(), avg(price), avg(attack) from weapon where name like '%sword%'; #13:09:49@rubyquest.db

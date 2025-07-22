@@ -1,0 +1,116 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name from creature where max_health > health",
+    "error": null,
+    "resultcount": 36,
+    "result": [
+        {
+            "name": "Killer Bee"
+        },
+        {
+            "name": "Killer Bee"
+        },
+        {
+            "name": "Killer Bee"
+        },
+        {
+            "name": "Bat"
+        },
+        {
+            "name": "Bat"
+        },
+        {
+            "name": "Bat"
+        },
+        {
+            "name": "Imp"
+        },
+        {
+            "name": "Imp"
+        },
+        {
+            "name": "Tarantula"
+        },
+        {
+            "name": "Tarantula"
+        },
+        {
+            "name": "Goblin"
+        },
+        {
+            "name": "Goblin"
+        },
+        {
+            "name": "Orc"
+        },
+        {
+            "name": "Orc"
+        },
+        {
+            "name": "Kobold"
+        },
+        {
+            "name": "Kobold"
+        },
+        {
+            "name": "Kobold"
+        },
+        {
+            "name": "Kobold"
+        },
+        {
+            "name": "Gargoyle"
+        },
+        {
+            "name": "Gargoyle"
+        },
+        {
+            "name": "Gargoyle"
+        },
+        {
+            "name": "Ghost"
+        },
+        {
+            "name": "Magog"
+        },
+        {
+            "name": "Troll"
+        },
+        {
+            "name": "Golem"
+        },
+        {
+            "name": "Golem"
+        },
+        {
+            "name": "Demon"
+        },
+        {
+            "name": "Troglodyte"
+        },
+        {
+            "name": "Valkyrie"
+        },
+        {
+            "name": "Gorgon"
+        },
+        {
+            "name": "Cyclops"
+        },
+        {
+            "name": "Hydra"
+        },
+        {
+            "name": "Hydra"
+        },
+        {
+            "name": "Hydra"
+        },
+        {
+            "name": "Pterodactyl"
+        },
+        {
+            "name": "Titan"
+        }
+    ]
+}

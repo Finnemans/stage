@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapons where cost < 300",
+    "error": "no such table: weapons",
+    "resultcount": 0,
+    "result": []
+}

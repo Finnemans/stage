@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select creatures.name, creatures.shell_type, weapons.power from creatures join weapons on creatures.id = weapons.creature_id where creatures.shell_type = 'Shell Chain' limit 1",
+    "error": "no such table: creatures",
+    "resultcount": 0,
+    "result": []
+}

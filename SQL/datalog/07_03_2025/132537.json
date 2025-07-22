@@ -1,0 +1,19 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creature where health > max_health",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "id": 64,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 45,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        }
+    ]
+}

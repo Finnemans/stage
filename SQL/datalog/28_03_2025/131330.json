@@ -1,0 +1,116 @@
+{
+    "database": "rubyquest.db",
+    "query": "select city.name, npc.profession from city join person join npc on npc.person = person.id where person.name = 'Mukovo'",
+    "error": null,
+    "resultcount": 27,
+    "result": [
+        {
+            "name": "Knael",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Troy",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Pacifa",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Onker",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Quiro",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Antsor",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Harbor",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Montse",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Laeks",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Vermon",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Nordberg",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Charcol",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Droins",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Mordor",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Unterdages",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Drakegor",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Xantr",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Yester",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Tomparf",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Preqeu",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Hansora",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Ismir",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Sempre City",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Nayak",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Umprivaklo",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Fjitsur",
+            "profession": "Tailor"
+        },
+        {
+            "name": "Soyaki",
+            "profession": "Tailor"
+        }
+    ]
+}

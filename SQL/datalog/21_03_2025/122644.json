@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select count(sheep) from animal'",
+    "error": "unrecognized token: \"'\"",
+    "resultcount": 0,
+    "result": []
+}

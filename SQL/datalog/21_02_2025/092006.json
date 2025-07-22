@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select name, max_health from name",
+    "error": "no such table: name",
+    "resultcount": 0,
+    "result": []
+}

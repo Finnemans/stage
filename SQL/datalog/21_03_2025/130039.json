@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "select avg(experience) from quest",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "avg(experience)": 1938.972602739726
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from person where name like A%",
+    "error": "incomplete input",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT name FROM city WHERE region IN (SELECT name FROM region WHERE name IN ('North Groval', 'South Groval'))",
+    "error": null,
+    "resultcount": 0,
+    "result": []
+}

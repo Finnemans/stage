@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from person like a%",
+    "error": "near \"a\": syntax error",
+    "resultcount": 0,
+    "result": []
+}
