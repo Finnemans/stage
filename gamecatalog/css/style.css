@@ -1,0 +1,109 @@
+body{
+font-family: sans-serif;
+background:#b2b2b2;
+font-size:20px;
+line-height:26px;
+}
+
+main{
+width:1000px;
+margin:0 auto;
+background:rgb(255, 255, 255);
+padding:30px;
+}
+
+header h1{
+margin-bottom:20px;
+font-size:40px;
+color:rgb(0, 0, 0);
+}
+
+nav{
+margin-bottom:30px;
+}
+.buttons{
+    border-bottom:2px solid #605c5c;
+}
+.button{
+padding:10px;
+margin-right:10px;
+background:#605c5c;
+color:white;
+text-decoration:none;
+}
+
+.button:hover {
+  background-color: #323232;
+  padding:9px;
+}
+.gamepicker {
+    float: right;
+}
+
+h1{
+font-size:23px;
+}
+
+h2{
+font-size:23px;
+margin-top:30px;
+}
+
+h3{
+font-size:23px;
+}
+
+p{
+margin-bottom:15px;
+}
+
+ul li{
+margin-bottom:10px;
+}
+
+ol li{
+margin-bottom:10px;
+}
+
+img{
+width:30%;
+margin-top:20px;
+border:2px solid #000000;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+
+.review{
+font-family: serif;
+margin-bottom:20px;
+}
+
+footer{
+margin-top:40px;
+border-top:2px solid #7c7c7c;
+padding-top:15px;
+}
+
+.info {
+    display: flex;
+    gap: 20px;
+}
+.desc {
+    width: 70%;
+    border:2px solid #ffffff;
+    padding:10px;
+}
+.metadata {
+    width: 30%;
+    border:2px solid #ffffff;
+    padding:10px;
+}
+.eisen {
+    border:2px solid #ffffff;
+    padding:10px;
+}
+.recenties {
+    margin-top: 10px;
+    border:2px solid #ffffff;
+    padding:10px;    
+}
