@@ -1,0 +1,59 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-size:20px;
+    line-height:26px;
+}
+
+
+.container{
+    width:950px;
+    margin:0 auto;
+}
+
+
+h1 {
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+
+.intro{
+    font-size:24px;
+    line-height:32px;
+    margin-bottom:40px;
+}
+
+
+h2{
+    font-size:32px;
+    line-height:32px;
+    margin-bottom:40px;
+}
+
+
+ul li{
+    margin-bottom:10px;
+}
+
+
+ol li{
+    margin-bottom:20px;
+}
+
+
+img{
+    width:80%;
+    margin-top:40px;
+}
+
+
+.tip{
+    background:#def6ed;
+    border-radius:4px;
+    padding:25px;
+    margin-top:40px;
+}
